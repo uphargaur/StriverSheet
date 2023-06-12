@@ -1,0 +1,1 @@
+{"name":"Local: DP_MinimalCost","url":"d:\\Striver_sheet\\DP_MinimalCost.cpp","tests":[{"id":1686307597921,"input":"1\n5 3\n10 30 40 50 20","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Striver_sheet\\DP_MinimalCost.cpp","group":"local","local":true}
